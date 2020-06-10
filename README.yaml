@@ -1,0 +1,58 @@
+---
+#
+# This is the canonical configuration for the `README.md`
+# Run `make readme` to rebuild the `README.md`
+#
+
+# Name of this project
+name: eslint-config-typescript-prettier
+
+# Tags of this project
+tags:
+  - eslint
+  - eslint-config
+  - prettier
+  - typescript
+  - npm-package
+
+# Categories of this project
+categories:
+    - nodejs-modules/supported
+    - eslint
+    - eslint-config
+    - prettier
+    - typescript
+    - npm-package
+
+# License of this project
+license: "APACHE2"
+
+# Canonical GitHub repo
+github_repo: enter-at/eslint-config-typescript-prettier
+
+# Badges to display
+badges:
+    - name: "Build Status"
+      image: "https://github.com/enter-at/eslint-config-typescript-prettier/workflows/Lint%20&%20Test/badge.svg"
+      url: "https://github.com/enter-at/eslint-config-typescript-prettier/actions"
+    - name: "Release"
+      image: "https://img.shields.io/npm/v/@enter-at/eslint-config-typescript-prettier.svg"
+      url: "https://www.npmjs.com/package/@enter-at/eslint-config-typescript-prettier"
+    - name: "Install size"
+      image: "https://packagephobia.now.sh/badge?p=@enter-at/eslint-config-typescript-prettier"
+      url: "https://packagephobia.now.sh/result?p=@enter-at/eslint-config-typescript-prettier"
+
+# Short description of this project
+description: |-
+    Enterat's ESLint config with TypeScript and Prettier support.
+
+quickstart: |-
+    Install from NPM:
+    ```bash
+    npm install @enter-at/eslint-config-typescript-prettier
+    ```
+
+# Contributors to this project
+contributors:
+    - name: "Steffen Leistner"
+      github: "sleistner"
