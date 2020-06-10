@@ -1,0 +1,51 @@
+{
+    "name": "@enter-at/eslint-config-typescript-prettier",
+    "version": "1.0.0",
+    "description": "Enterat's ESLint config with TypeScript and Prettier support.",
+    "main": "index.js",
+    "files": [
+        "index.js"
+    ],
+    "scripts": {
+        "test": "eslint --ext .ts test/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/enter-at/eslint-config-typescript-prettier.git"
+    },
+    "keywords": [
+        "eslint",
+        "eslint-config",
+        "prettier",
+        "typescript"
+    ],
+    "author": "Steffen Leistner",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/enter-at/eslint-config-typescript-prettier/issues"
+    },
+    "homepage": "https://github.com/enter-at/eslint-config-typescript-prettier#readme",
+    "dependencies": {
+        "@typescript-eslint/eslint-plugin": "^3.3.0",
+        "@typescript-eslint/parser": "^3.3.0",
+        "eslint-config-prettier": "^6.11.0",
+        "eslint-plugin-import": "^2.21.2",
+        "eslint-plugin-prettier": "^3.1.4",
+        "husky": "^4.2.5"
+    },
+    "peerDependencies": {
+        "eslint": "^5.16.0 || ^6.8.0 || ^7.2.0",
+        "prettier": "^1.18.2 || ^2.0.0",
+        "typescript": ">=3.3.1 <3.10.0"
+    },
+    "devDependencies": {
+        "eslint": "7.3.1",
+        "prettier": "2.0.5",
+        "typescript": "3.9.5"
+    },
+    "husky": {
+        "hooks": {
+            "pre-commit": "npm run test"
+        }
+    }
+}
