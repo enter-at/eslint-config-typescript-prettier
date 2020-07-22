@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.0.1...v1.1.0) (2020-07-22)
+
+
+### Features
+
+* **typescript:** enforce that interface names do not begin with an I ([172d219](https://github.com/enter-at/eslint-config-typescript-prettier/commit/172d2194b1ab6fef963701921368fa79b891085c))
+
 ## [1.0.1](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.0.0...v1.0.1) (2020-07-22)
 
 
