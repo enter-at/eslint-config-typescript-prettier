@@ -33,7 +33,7 @@ github_repo: enter-at/eslint-config-typescript-prettier
 # Badges to display
 badges:
     - name: "Build Status"
-      image: "https://github.com/enter-at/eslint-config-typescript-prettier/workflows/Lint/badge.svg"
+      image: "https://github.com/enter-at/eslint-config-typescript-prettier/workflows/Test/badge.svg"
       url: "https://github.com/enter-at/eslint-config-typescript-prettier/actions"
     - name: "Release"
       image: "https://img.shields.io/npm/v/@enter-at/eslint-config-typescript-prettier.svg"
