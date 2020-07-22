@@ -47,9 +47,18 @@ description: |-
     Enterat's ESLint config with TypeScript and Prettier support.
 
 quickstart: |-
-    Install from NPM:
+    Install `typescript`, `eslint` and `prettier`, `@enter-at/eslint-config-typescript-prettier` and put it into your `.eslintrc.js`.
+
     ```bash
-    npm install @enter-at/eslint-config-typescript-prettier
+    $ npm install typescript eslint prettier @enter-at/eslint-config-typescript-prettier --save-dev
+    ```
+
+    `.eslintrc.js`
+
+    ```js
+    module.exports = {
+    extends: "@enter-at/typescript-prettier"
+    };
     ```
 
 # Contributors to this project
