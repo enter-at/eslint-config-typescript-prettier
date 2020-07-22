@@ -18,6 +18,17 @@ module.exports = {
         "@typescript-eslint/no-unused-vars": "error",
         "@typescript-eslint/explicit-member-accessibility": "off",
         "@typescript-eslint/no-object-literal-type-assertion": "off",
+        "@typescript-eslint/naming-convention": [
+            "error",
+            {
+                selector: "interface",
+                format: ["PascalCase"],
+                custom: {
+                    regex: "^I[A-Z]",
+                    match: false,
+                },
+            },
+        ],
         // import
         "import/extensions": [
             "error",
