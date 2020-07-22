@@ -12,7 +12,7 @@
 
 [<img src="https://res.cloudinary.com/enter-at/image/upload/v1576145406/static/logo-svg.svg" alt="enter-at" width="100">][website]
 
-# eslint-config-typescript-prettier [![Build Status](https://github.com/enter-at/eslint-config-typescript-prettier/workflows/Lint%20&%20Test/badge.svg)](https://github.com/enter-at/eslint-config-typescript-prettier/actions) [![Release](https://img.shields.io/npm/v/@enter-at/eslint-config-typescript-prettier.svg)](https://www.npmjs.com/package/@enter-at/eslint-config-typescript-prettier) [![Install size](https://packagephobia.now.sh/badge?p=@enter-at/eslint-config-typescript-prettier)](https://packagephobia.now.sh/result?p=@enter-at/eslint-config-typescript-prettier)
+# eslint-config-typescript-prettier [![Build Status](https://github.com/enter-at/eslint-config-typescript-prettier/workflows/Lint/badge.svg)](https://github.com/enter-at/eslint-config-typescript-prettier/actions) [![Release](https://img.shields.io/npm/v/@enter-at/eslint-config-typescript-prettier.svg)](https://www.npmjs.com/package/@enter-at/eslint-config-typescript-prettier) [![Install size](https://packagephobia.now.sh/badge?p=@enter-at/eslint-config-typescript-prettier)](https://packagephobia.now.sh/result?p=@enter-at/eslint-config-typescript-prettier)
 
 
 Enterat's ESLint config with TypeScript and Prettier support.
@@ -36,11 +36,11 @@ Install `typescript`, `eslint` and `prettier`, `@enter-at/eslint-config-typescri
 $ npm install typescript eslint prettier @enter-at/eslint-config-typescript-prettier --save-dev
 ```
 
-`.eslintrc.js`
+Update your `.eslintrc.js` file to contain at least the following lines.
 
 ```js
 module.exports = {
-extends: "@enter-at/typescript-prettier"
+    extends: "@enter-at/typescript-prettier"
 };
 ```
 
