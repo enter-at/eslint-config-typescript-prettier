@@ -164,9 +164,7 @@ See [LICENSE](LICENSE) for full details.
 {{ if has (datasource "config") "contributors" }}
 ### Contributors
 
-{{ range $contributor := (ds "config").contributors }}
-{{ printf "[![%s][%s_avatar]][%s_homepage]" $contributor.name $contributor.github $contributor.github }}
-{{ end }}
+{{ range $contributor := (ds "config").contributors }}{{ printf "[![%s][%s_avatar]][%s_homepage]" $contributor.name $contributor.github $contributor.github }}{{ end }}
 
 {{ range $contributor := (ds "config").contributors -}}
 {{- if has $contributor "homepage" }}
