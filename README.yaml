@@ -39,8 +39,8 @@ badges:
       image: "https://img.shields.io/npm/v/@enter-at/eslint-config-typescript-prettier.svg"
       url: "https://www.npmjs.com/package/@enter-at/eslint-config-typescript-prettier"
     - name: "Install size"
-      image: "https://packagephobia.now.sh/badge?p=@enter-at/eslint-config-typescript-prettier"
-      url: "https://packagephobia.now.sh/result?p=@enter-at/eslint-config-typescript-prettier"
+      image: "https://packagephobia.com/badge?p=@enter-at/eslint-config-typescript-prettier"
+      url: "https://packagephobia.com/result?p=@enter-at/eslint-config-typescript-prettier"
 
 # Short description of this project
 description: |-
