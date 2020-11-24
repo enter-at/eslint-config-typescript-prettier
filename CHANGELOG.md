@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.2.0...v1.3.0) (2020-11-24)
+
+
+### Features
+
+* **deps:** update typescript ([d96e842](https://github.com/enter-at/eslint-config-typescript-prettier/commit/d96e842e7042cb240270c51f635a7290e023b3b4))
+
 # [1.2.0](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.1.1...v1.2.0) (2020-11-24)
 
 
