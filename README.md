@@ -12,7 +12,7 @@
 
 [<img src="https://res.cloudinary.com/enter-at/image/upload/v1576145406/static/logo-svg.svg" alt="enter-at" width="100">][website]
 
-# eslint-config-typescript-prettier [![Build Status](https://github.com/enter-at/eslint-config-typescript-prettier/workflows/Test/badge.svg)](https://github.com/enter-at/eslint-config-typescript-prettier/actions) [![Release](https://img.shields.io/npm/v/@enter-at/eslint-config-typescript-prettier.svg)](https://www.npmjs.com/package/@enter-at/eslint-config-typescript-prettier) [![Install size](https://packagephobia.now.sh/badge?p=@enter-at/eslint-config-typescript-prettier)](https://packagephobia.now.sh/result?p=@enter-at/eslint-config-typescript-prettier)
+# eslint-config-typescript-prettier [![Build Status](https://github.com/enter-at/eslint-config-typescript-prettier/workflows/Test/badge.svg)](https://github.com/enter-at/eslint-config-typescript-prettier/actions) [![Release](https://img.shields.io/npm/v/@enter-at/eslint-config-typescript-prettier.svg)](https://www.npmjs.com/package/@enter-at/eslint-config-typescript-prettier) [![Install size](https://packagephobia.com/badge?p=@enter-at/eslint-config-typescript-prettier)](https://packagephobia.com/result?p=@enter-at/eslint-config-typescript-prettier)
 
 
 Enterat's ESLint config with TypeScript and Prettier support.
