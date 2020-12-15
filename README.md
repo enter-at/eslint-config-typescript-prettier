@@ -10,9 +10,8 @@
 
   -->
 
-[<img src="https://res.cloudinary.com/enter-at/image/upload/v1576145406/static/logo-svg.svg" alt="enter-at" width="100">][website]
-
-# eslint-config-typescript-prettier [![Build Status](https://github.com/enter-at/eslint-config-typescript-prettier/workflows/Test/badge.svg)](https://github.com/enter-at/eslint-config-typescript-prettier/actions) [![Release](https://img.shields.io/npm/v/@enter-at/eslint-config-typescript-prettier.svg)](https://www.npmjs.com/package/@enter-at/eslint-config-typescript-prettier) [![Install size](https://packagephobia.com/badge?p=@enter-at/eslint-config-typescript-prettier)](https://packagephobia.com/result?p=@enter-at/eslint-config-typescript-prettier)
+# eslint-config-typescript-prettier
+ [![Build Status](https://github.com/enter-at/eslint-config-typescript-prettier/workflows/Test/badge.svg)](https://github.com/enter-at/eslint-config-typescript-prettier/actions) [![Release](https://img.shields.io/npm/v/@enter-at/eslint-config-typescript-prettier.svg)](https://www.npmjs.com/package/@enter-at/eslint-config-typescript-prettier) [![Install size](https://packagephobia.com/badge?p=@enter-at/eslint-config-typescript-prettier)](https://packagephobia.com/result?p=@enter-at/eslint-config-typescript-prettier)
 
 
 Enterat's ESLint config with TypeScript and Prettier support.
@@ -22,6 +21,8 @@ Enterat's ESLint config with TypeScript and Prettier support.
 
 
 It's 100% Open Source and licensed under the [APACHE2](LICENSE).
+
+
 
 
 
@@ -106,14 +107,3 @@ See [LICENSE](LICENSE) for full details.
 
 
 
-
-### Contributors
-
-[![Steffen Leistner][sleistner_avatar]][sleistner_homepage]
-
-  [sleistner_homepage]: https://github.com/sleistner
-  [sleistner_avatar]: https://res.cloudinary.com/enter-at/image/fetch/f_png,r_max,w_100,h_100,c_thumb/https://github.com/sleistner.png
-
-
-
-  [website]: https://github.com/enter-at
