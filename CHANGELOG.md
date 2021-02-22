@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.4.0...v1.5.0) (2021-02-22)
+
+
+### Features
+
+* **deps:** update peer dependencies ([0e66d73](https://github.com/enter-at/eslint-config-typescript-prettier/commit/0e66d73ab99c3a6c1fa36e1c7e1e89f8caf88197))
+
 # [1.4.0](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.3.0...v1.4.0) (2021-02-22)
 
 
