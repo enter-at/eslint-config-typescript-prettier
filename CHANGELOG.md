@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.3.0...v1.4.0) (2021-02-22)
+
+
+### Features
+
+* **deps:** update typescript peer max version ([c68bf39](https://github.com/enter-at/eslint-config-typescript-prettier/commit/c68bf39a87b2a0e48211f31b569dfd87965989b8))
+
 # [1.3.0](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.2.0...v1.3.0) (2020-11-24)
 
 
