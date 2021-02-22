@@ -8,8 +8,15 @@ module.exports = {
         node: true,
         es6: true,
     },
-    extends: ["plugin:@typescript-eslint/recommended", "prettier", "prettier/@typescript-eslint"],
-    plugins: ["import", "prettier", "@typescript-eslint"],
+    plugins: [
+        "import",
+        "prettier",
+        "@typescript-eslint"
+    ],
+    extends: [
+        "plugin:@typescript-eslint/recommended",
+        "prettier"
+    ],
     globals: {},
     rules: {
         // prettier
