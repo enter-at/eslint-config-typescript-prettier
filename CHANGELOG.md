@@ -1,3 +1,10 @@
+## [1.5.2](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.5.1...v1.5.2) (2021-04-19)
+
+
+### Bug Fixes
+
+* **deps:** update typescript-eslint monorepo to ^4.22.0 ([4511b4c](https://github.com/enter-at/eslint-config-typescript-prettier/commit/4511b4c468bb834b1dc0e6e2f0a576c56ed4236d))
+
 ## [1.5.1](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.5.0...v1.5.1) (2021-04-19)
 
 
