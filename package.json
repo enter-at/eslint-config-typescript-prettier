@@ -42,7 +42,7 @@
         "typescript": "^4.1.5"
     },
     "devDependencies": {
-        "eslint": "7.26.0",
+        "eslint": "7.27.0",
         "prettier": "2.2.1",
         "typescript": "4.2.4"
     },
