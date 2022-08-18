@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.5.2...v1.6.0) (2022-08-18)
+
+
+### Features
+
+* update eslint ([c7ec1ee](https://github.com/enter-at/eslint-config-typescript-prettier/commit/c7ec1eebcd24f1b1bc384853257c0512303b4a9a))
+
 ## [1.5.2](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.5.1...v1.5.2) (2021-04-19)
 
 
