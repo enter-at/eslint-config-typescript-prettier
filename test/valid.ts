@@ -1,7 +1,12 @@
 class BigNumbers {
-    constructor(private numbers: number[]) {}
+    numbers: bigint[];
+
+    constructor(numbers: (number | bigint)[]) {
+        this.numbers = numbers.map((n) => BigInt(n));
+    }
+
     max() {
-        return Math.max(...this.numbers);
+        return this.numbers.reduce((m, e) => (e > m ? e : m));
     }
 }
 
@@ -21,11 +26,11 @@ function greeter(person: Person) {
 }
 
 const foo = [
-    11111111111111111,
+    11111111111111111n,
     200000000888997,
-    37217981273897218937812973,
-    42364638623874196438648372,
-    5327987498127498713897491,
+    37217981273897218937812973n,
+    42364638623874196438648372n,
+    5327987498127498713897491n,
     6,
     7,
     8,
