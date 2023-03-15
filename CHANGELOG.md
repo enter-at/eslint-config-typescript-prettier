@@ -1,3 +1,10 @@
+## [1.6.1](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.6.0...v1.6.1) (2023-03-15)
+
+
+### Bug Fixes
+
+* **deps:** update dependency husky to v8.0.3 ([da46c16](https://github.com/enter-at/eslint-config-typescript-prettier/commit/da46c1629a1ec6341cc298ed673392f67d3d0e94))
+
 # [1.6.0](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.5.2...v1.6.0) (2022-08-18)
 
 
