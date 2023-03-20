@@ -1,3 +1,10 @@
+## [1.6.5](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.6.4...v1.6.5) (2023-03-20)
+
+
+### Bug Fixes
+
+* **deps:** update typescript-eslint monorepo to v5.56.0 ([ef9d38c](https://github.com/enter-at/eslint-config-typescript-prettier/commit/ef9d38cb674f8352be3d2de9b737657b862d744d))
+
 ## [1.6.4](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.6.3...v1.6.4) (2023-03-16)
 
 
