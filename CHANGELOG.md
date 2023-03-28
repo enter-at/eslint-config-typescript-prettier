@@ -1,3 +1,12 @@
+## [1.6.7](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.6.6...v1.6.7) (2023-03-28)
+
+
+### Bug Fixes
+
+* **ci:** pin semantic release version ([b4c79b8](https://github.com/enter-at/eslint-config-typescript-prettier/commit/b4c79b820ba34d1a55be09073bbf952bf51e9249))
+* **deps:** update typescript-eslint monorepo to v5.57.0 ([431798f](https://github.com/enter-at/eslint-config-typescript-prettier/commit/431798fccd000ad0d4842ddff53ce892e1db3ac1))
+* update vulnerable dependencies ([a588dad](https://github.com/enter-at/eslint-config-typescript-prettier/commit/a588dadab1cea2fc911f727bef1b440468fbdfc3))
+
 ## [1.6.6](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.6.5...v1.6.6) (2023-03-21)
 
 
