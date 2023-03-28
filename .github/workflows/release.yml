@@ -9,6 +9,10 @@ on:
     types:
       - completed
 
+env:
+  GITHUB_TOKEN: ${{ secrets.GH_BOT_TOKEN }}
+  NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+
 jobs:
   release:
     name: release
@@ -17,18 +21,13 @@ jobs:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
         with:
-          node-version: "16.x"
+          node-version: "18.x"
+      - run: |
+          npm install --omit=optional --no-package-lock --no-color --no-description
 
-      - run: npm install
-
-      - uses: cycjimmy/semantic-release-action@master
-        id: semantic
-        with:
-          branch: master
-          extra_plugins: |
-            @semantic-release/npm
-            @semantic-release/git
+          npm install --no-package-lock --no-color --no-description \
+            @semantic-release/npm \
+            @semantic-release/git \
             @semantic-release/changelog
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_BOT_TOKEN }}
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+
+          npx semantic-release
