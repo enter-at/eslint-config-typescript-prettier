@@ -4,8 +4,7 @@
     "description": "Enterat's ESLint config with TypeScript and Prettier support.",
     "main": "index.js",
     "publishConfig": {
-        "access": "public",
-        "provenance": true
+        "access": "public"
     },
     "engines": {
         "node": ">=16"
