@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.6.12...v1.7.0) (2023-04-25)
+
+
+### Features
+
+* publish provenance ([00ac72e](https://github.com/enter-at/eslint-config-typescript-prettier/commit/00ac72e2c4d06b9e026062b22e84fd17a69ceea6))
+
 ## [1.6.12](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.6.11...v1.6.12) (2023-04-25)
 
 
