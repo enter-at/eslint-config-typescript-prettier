@@ -1,3 +1,10 @@
+## [1.7.13](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.7.12...v1.7.13) (2023-07-27)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-prettier to v8.9.0 ([faabecf](https://github.com/enter-at/eslint-config-typescript-prettier/commit/faabecf85f6255814a594ba5a5cf5f5de9e6f7bb))
+
 ## [1.7.12](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.7.11...v1.7.12) (2023-07-10)
 
 
