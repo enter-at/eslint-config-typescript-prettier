@@ -1,3 +1,10 @@
+## [1.7.17](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.7.16...v1.7.17) (2023-08-19)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @semantic-release/npm to v10.0.5 ([19e8a4f](https://github.com/enter-at/eslint-config-typescript-prettier/commit/19e8a4f76f7c44d331a7d2519ecf5494a1d8db23))
+
 ## [1.7.16](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.7.15...v1.7.16) (2023-08-19)
 
 
