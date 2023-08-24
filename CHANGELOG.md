@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.8.0...v1.9.0) (2023-08-24)
+
+
+### Features
+
+* **dependencies:** update prettier peer ([916fa47](https://github.com/enter-at/eslint-config-typescript-prettier/commit/916fa4762c533b943b7002e861ea0459ff0df29d))
+
 # [1.8.0](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.7.17...v1.8.0) (2023-08-24)
 
 
