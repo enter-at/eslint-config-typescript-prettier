@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.7.17...v1.8.0) (2023-08-24)
+
+
+### Features
+
+* update prettier ([5c14b3f](https://github.com/enter-at/eslint-config-typescript-prettier/commit/5c14b3fc6f5dbf1bb02b0d123790e9550afd6d4b))
+
 ## [1.7.17](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.7.16...v1.7.17) (2023-08-19)
 
 
