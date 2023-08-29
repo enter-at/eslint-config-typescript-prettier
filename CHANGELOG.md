@@ -1,3 +1,10 @@
+## [1.9.2](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.9.1...v1.9.2) (2023-08-29)
+
+
+### Bug Fixes
+
+* **package:** remove semantic release dependency ([5f8b16a](https://github.com/enter-at/eslint-config-typescript-prettier/commit/5f8b16a1abc1401f214a538b63cb4c322cee4790))
+
 ## [1.9.1](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.9.0...v1.9.1) (2023-08-28)
 
 
