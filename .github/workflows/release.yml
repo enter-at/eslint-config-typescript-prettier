@@ -23,9 +23,9 @@ jobs:
         with:
           node-version: "18.x"
       - run: |
-          npm install --omit=optional --no-package-lock --no-color --no-description
+          npm install --omit=optional --no-package-lock --no-color --no-description --no-fund --no-save
 
-          npm install --no-package-lock --no-color --no-description \
+          npm install --no-package-lock --no-color --no-description --no-fund --no-save \
             @semantic-release/npm \
             @semantic-release/git \
             @semantic-release/changelog
