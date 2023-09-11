@@ -1,3 +1,10 @@
+## [1.9.5](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.9.4...v1.9.5) (2023-09-11)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @typescript-eslint/parser to v6.7.0 ([4216eda](https://github.com/enter-at/eslint-config-typescript-prettier/commit/4216edab5604bf9110c3cbeefe38bd31459cd55c))
+
 ## [1.9.4](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.9.3...v1.9.4) (2023-09-11)
 
 
