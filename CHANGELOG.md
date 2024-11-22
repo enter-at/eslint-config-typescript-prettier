@@ -1,3 +1,16 @@
+## [1.9.33](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.9.32...v1.9.33) (2024-11-22)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-import to v2.30.0 ([47cee64](https://github.com/enter-at/eslint-config-typescript-prettier/commit/47cee64ee2afc1b46a8567909c611abe70015642))
+* **deps:** update dependency eslint-plugin-import to v2.31.0 ([e6a2953](https://github.com/enter-at/eslint-config-typescript-prettier/commit/e6a295355e9b43451d22bfee274687b1c85d1e96))
+* **deps:** update dependency eslint-plugin-prettier to v5.2.1 ([4529aa0](https://github.com/enter-at/eslint-config-typescript-prettier/commit/4529aa076072499171594ece05eb990f103d1239))
+* **deps:** update typescript-eslint monorepo to v6.19.0 ([1f23bb1](https://github.com/enter-at/eslint-config-typescript-prettier/commit/1f23bb1530ac472ad9dc12dde3b021e414abc67c))
+* **deps:** update typescript-eslint monorepo to v6.19.1 ([f4ec66b](https://github.com/enter-at/eslint-config-typescript-prettier/commit/f4ec66bfd392d718780dc44ce3e4c354f7bcbd2f))
+* **deps:** update typescript-eslint monorepo to v6.20.0 ([601bcd0](https://github.com/enter-at/eslint-config-typescript-prettier/commit/601bcd0dd79d6aa8456934c1dabe062eaa62c726))
+* **deps:** update typescript-eslint monorepo to v6.21.0 ([2c0ac60](https://github.com/enter-at/eslint-config-typescript-prettier/commit/2c0ac608690f878e26d23ac1a36338d5e62a3518))
+
 ## [1.9.32](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.9.31...v1.9.32) (2024-01-10)
 
 
