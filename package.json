@@ -48,7 +48,7 @@
     },
     "devDependencies": {
         "eslint": "8.57.1",
-        "prettier": "3.3.3",
+        "prettier": "3.4.0",
         "typescript": "5.7.2"
     },
     "husky": {
