@@ -1,6 +1,6 @@
 {
     "name": "@enter-at/eslint-config-typescript-prettier",
-    "version": "1.9.33",
+    "version": "1.9.34",
     "description": "Enterat's ESLint config with TypeScript and Prettier support.",
     "main": "index.js",
     "publishConfig": {
