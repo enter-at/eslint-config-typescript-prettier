@@ -1,3 +1,10 @@
+## [1.9.47](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.9.46...v1.9.47) (2025-08-06)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-prettier to v5.5.4 ([bacb1b6](https://github.com/enter-at/eslint-config-typescript-prettier/commit/bacb1b6635d8e09dc895024fea0e0eb5b27cdc2d))
+
 ## [1.9.46](https://github.com/enter-at/eslint-config-typescript-prettier/compare/v1.9.45...v1.9.46) (2025-07-19)
 
 
